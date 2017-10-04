@@ -1,2 +1,2 @@
 # djangorest
-Complete Djang Rest with Image/file upload and save to rest service
+Complete Django Rest with Image/file upload and save to rest service
